@@ -1,0 +1,10 @@
+# Backend secrets and local environment configuration
+backend/.env
+
+# Environment files and deployment secrets (commit examples only)
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
